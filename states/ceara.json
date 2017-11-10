@@ -1,0 +1,553 @@
+[{
+    "nome": "Abaiara",
+    "secapital": false
+}, {
+    "nome": "Acarape",
+    "secapital": false
+}, {
+    "nome": "Acara\u00fa",
+    "secapital": false
+}, {
+    "nome": "Acopiara",
+    "secapital": false
+}, {
+    "nome": "Aiuaba",
+    "secapital": false
+}, {
+    "nome": "Alc\u00e2ntaras",
+    "secapital": false
+}, {
+    "nome": "Altaneira",
+    "secapital": false
+}, {
+    "nome": "Alto Santo",
+    "secapital": false
+}, {
+    "nome": "Amontada",
+    "secapital": false
+}, {
+    "nome": "Antonina do Norte",
+    "secapital": false
+}, {
+    "nome": "Apuiar\u00e9s",
+    "secapital": false
+}, {
+    "nome": "Aquiraz",
+    "secapital": false
+}, {
+    "nome": "Aracati",
+    "secapital": false
+}, {
+    "nome": "Aracoiaba",
+    "secapital": false
+}, {
+    "nome": "Ararend\u00e1",
+    "secapital": false
+}, {
+    "nome": "Araripe",
+    "secapital": false
+}, {
+    "nome": "Aratuba",
+    "secapital": false
+}, {
+    "nome": "Arneiroz",
+    "secapital": false
+}, {
+    "nome": "Assar\u00e9",
+    "secapital": false
+}, {
+    "nome": "Aurora",
+    "secapital": false
+}, {
+    "nome": "Baixio",
+    "secapital": false
+}, {
+    "nome": "Banabui\u00fa",
+    "secapital": false
+}, {
+    "nome": "Barbalha",
+    "secapital": false
+}, {
+    "nome": "Barreira",
+    "secapital": false
+}, {
+    "nome": "Barro",
+    "secapital": false
+}, {
+    "nome": "Barroquinha",
+    "secapital": false
+}, {
+    "nome": "Baturit\u00e9",
+    "secapital": false
+}, {
+    "nome": "Beberibe",
+    "secapital": false
+}, {
+    "nome": "Bela Cruz",
+    "secapital": false
+}, {
+    "nome": "Boa Viagem",
+    "secapital": false
+}, {
+    "nome": "Brejo Santo",
+    "secapital": false
+}, {
+    "nome": "Camocim",
+    "secapital": false
+}, {
+    "nome": "Campos Sales",
+    "secapital": false
+}, {
+    "nome": "Canind\u00e9",
+    "secapital": false
+}, {
+    "nome": "Capistrano",
+    "secapital": false
+}, {
+    "nome": "Caridade",
+    "secapital": false
+}, {
+    "nome": "Carir\u00e9",
+    "secapital": false
+}, {
+    "nome": "Cariria\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Cari\u00fas",
+    "secapital": false
+}, {
+    "nome": "Carnaubal",
+    "secapital": false
+}, {
+    "nome": "Cascavel",
+    "secapital": false
+}, {
+    "nome": "Catarina",
+    "secapital": false
+}, {
+    "nome": "Catunda",
+    "secapital": false
+}, {
+    "nome": "Caucaia",
+    "secapital": false
+}, {
+    "nome": "Cedro",
+    "secapital": false
+}, {
+    "nome": "Chaval",
+    "secapital": false
+}, {
+    "nome": "Chor\u00f3",
+    "secapital": false
+}, {
+    "nome": "Chorozinho",
+    "secapital": false
+}, {
+    "nome": "Corea\u00fa",
+    "secapital": false
+}, {
+    "nome": "Crate\u00fas",
+    "secapital": false
+}, {
+    "nome": "Crato",
+    "secapital": false
+}, {
+    "nome": "Croat\u00e1",
+    "secapital": false
+}, {
+    "nome": "Cruz",
+    "secapital": false
+}, {
+    "nome": "Deputado Irapuan Pinheiro",
+    "secapital": false
+}, {
+    "nome": "Erer\u00ea",
+    "secapital": false
+}, {
+    "nome": "Eus\u00e9bio",
+    "secapital": false
+}, {
+    "nome": "Farias Brito",
+    "secapital": false
+}, {
+    "nome": "Forquilha",
+    "secapital": false
+}, {
+    "nome": "Fortaleza",
+    "secapital": true
+}, {
+    "nome": "Fortim",
+    "secapital": false
+}, {
+    "nome": "Frecheirinha",
+    "secapital": false
+}, {
+    "nome": "General Sampaio",
+    "secapital": false
+}, {
+    "nome": "Gra\u00e7a",
+    "secapital": false
+}, {
+    "nome": "Granja",
+    "secapital": false
+}, {
+    "nome": "Granjeiro",
+    "secapital": false
+}, {
+    "nome": "Groa\u00edras",
+    "secapital": false
+}, {
+    "nome": "Guai\u00faba",
+    "secapital": false
+}, {
+    "nome": "Guaraciaba do Norte",
+    "secapital": false
+}, {
+    "nome": "Guaramiranga",
+    "secapital": false
+}, {
+    "nome": "Hidrol\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Horizonte",
+    "secapital": false
+}, {
+    "nome": "Ibaretama",
+    "secapital": false
+}, {
+    "nome": "Ibiapina",
+    "secapital": false
+}, {
+    "nome": "Ibicuitinga",
+    "secapital": false
+}, {
+    "nome": "Icapu\u00ed",
+    "secapital": false
+}, {
+    "nome": "Ic\u00f3",
+    "secapital": false
+}, {
+    "nome": "Iguatu",
+    "secapital": false
+}, {
+    "nome": "Independ\u00eancia",
+    "secapital": false
+}, {
+    "nome": "Ipaporanga",
+    "secapital": false
+}, {
+    "nome": "Ipaumirim",
+    "secapital": false
+}, {
+    "nome": "Ipu",
+    "secapital": false
+}, {
+    "nome": "Ipueiras",
+    "secapital": false
+}, {
+    "nome": "Iracema",
+    "secapital": false
+}, {
+    "nome": "Irau\u00e7uba",
+    "secapital": false
+}, {
+    "nome": "Itai\u00e7aba",
+    "secapital": false
+}, {
+    "nome": "Itaitinga",
+    "secapital": false
+}, {
+    "nome": "Itapag\u00e9",
+    "secapital": false
+}, {
+    "nome": "Itapipoca",
+    "secapital": false
+}, {
+    "nome": "Itapi\u00fana",
+    "secapital": false
+}, {
+    "nome": "Itarema",
+    "secapital": false
+}, {
+    "nome": "Itatira",
+    "secapital": false
+}, {
+    "nome": "Jaguaretama",
+    "secapital": false
+}, {
+    "nome": "Jaguaribara",
+    "secapital": false
+}, {
+    "nome": "Jaguaribe",
+    "secapital": false
+}, {
+    "nome": "Jaguaruana",
+    "secapital": false
+}, {
+    "nome": "Jardim",
+    "secapital": false
+}, {
+    "nome": "Jati",
+    "secapital": false
+}, {
+    "nome": "Jijoca de Jericoacoara",
+    "secapital": false
+}, {
+    "nome": "Juazeiro do Norte",
+    "secapital": false
+}, {
+    "nome": "Juc\u00e1s",
+    "secapital": false
+}, {
+    "nome": "Lavras da Mangabeira",
+    "secapital": false
+}, {
+    "nome": "Limoeiro do Norte",
+    "secapital": false
+}, {
+    "nome": "Madalena",
+    "secapital": false
+}, {
+    "nome": "Maracana\u00fa",
+    "secapital": false
+}, {
+    "nome": "Maranguape",
+    "secapital": false
+}, {
+    "nome": "Marco",
+    "secapital": false
+}, {
+    "nome": "Martin\u00f3pole",
+    "secapital": false
+}, {
+    "nome": "Massap\u00ea",
+    "secapital": false
+}, {
+    "nome": "Mauriti",
+    "secapital": false
+}, {
+    "nome": "Meruoca",
+    "secapital": false
+}, {
+    "nome": "Milagres",
+    "secapital": false
+}, {
+    "nome": "Milh\u00e3",
+    "secapital": false
+}, {
+    "nome": "Mira\u00edma",
+    "secapital": false
+}, {
+    "nome": "Miss\u00e3o Velha",
+    "secapital": false
+}, {
+    "nome": "Momba\u00e7a",
+    "secapital": false
+}, {
+    "nome": "Monsenhor Tabosa",
+    "secapital": false
+}, {
+    "nome": "Morada Nova",
+    "secapital": false
+}, {
+    "nome": "Mora\u00fajo",
+    "secapital": false
+}, {
+    "nome": "Morrinhos",
+    "secapital": false
+}, {
+    "nome": "Mucambo",
+    "secapital": false
+}, {
+    "nome": "Mulungu",
+    "secapital": false
+}, {
+    "nome": "Nova Olinda",
+    "secapital": false
+}, {
+    "nome": "Nova Russas",
+    "secapital": false
+}, {
+    "nome": "Novo Oriente",
+    "secapital": false
+}, {
+    "nome": "Ocara",
+    "secapital": false
+}, {
+    "nome": "Or\u00f3s",
+    "secapital": false
+}, {
+    "nome": "Pacajus",
+    "secapital": false
+}, {
+    "nome": "Pacatuba",
+    "secapital": false
+}, {
+    "nome": "Pacoti",
+    "secapital": false
+}, {
+    "nome": "Pacuj\u00e1",
+    "secapital": false
+}, {
+    "nome": "Palhano",
+    "secapital": false
+}, {
+    "nome": "Palm\u00e1cia",
+    "secapital": false
+}, {
+    "nome": "Paracuru",
+    "secapital": false
+}, {
+    "nome": "Paraipaba",
+    "secapital": false
+}, {
+    "nome": "Parambu",
+    "secapital": false
+}, {
+    "nome": "Paramoti",
+    "secapital": false
+}, {
+    "nome": "Pedra Branca",
+    "secapital": false
+}, {
+    "nome": "Penaforte",
+    "secapital": false
+}, {
+    "nome": "Pentecoste",
+    "secapital": false
+}, {
+    "nome": "Pereiro",
+    "secapital": false
+}, {
+    "nome": "Pindoretama",
+    "secapital": false
+}, {
+    "nome": "Piquet Carneiro",
+    "secapital": false
+}, {
+    "nome": "Pires Ferreira",
+    "secapital": false
+}, {
+    "nome": "Poranga",
+    "secapital": false
+}, {
+    "nome": "Porteiras",
+    "secapital": false
+}, {
+    "nome": "Potengi",
+    "secapital": false
+}, {
+    "nome": "Potiretama",
+    "secapital": false
+}, {
+    "nome": "Quiterian\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Quixad\u00e1",
+    "secapital": false
+}, {
+    "nome": "Quixel\u00f4",
+    "secapital": false
+}, {
+    "nome": "Quixeramobim",
+    "secapital": false
+}, {
+    "nome": "Quixer\u00e9",
+    "secapital": false
+}, {
+    "nome": "Reden\u00e7\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Reriutaba",
+    "secapital": false
+}, {
+    "nome": "Russas",
+    "secapital": false
+}, {
+    "nome": "Saboeiro",
+    "secapital": false
+}, {
+    "nome": "Salitre",
+    "secapital": false
+}, {
+    "nome": "Santa Quit\u00e9ria",
+    "secapital": false
+}, {
+    "nome": "Santana do Acara\u00fa",
+    "secapital": false
+}, {
+    "nome": "Santana do Cariri",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Benedito",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Amarante",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Jaguaribe",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Lu\u00eds do Curu",
+    "secapital": false
+}, {
+    "nome": "Senador Pompeu",
+    "secapital": false
+}, {
+    "nome": "Senador S\u00e1",
+    "secapital": false
+}, {
+    "nome": "Sobral",
+    "secapital": false
+}, {
+    "nome": "Solon\u00f3pole",
+    "secapital": false
+}, {
+    "nome": "Tabuleiro do Norte",
+    "secapital": false
+}, {
+    "nome": "Tamboril",
+    "secapital": false
+}, {
+    "nome": "Tarrafas",
+    "secapital": false
+}, {
+    "nome": "Tau\u00e1",
+    "secapital": false
+}, {
+    "nome": "Teju\u00e7uoca",
+    "secapital": false
+}, {
+    "nome": "Tiangu\u00e1",
+    "secapital": false
+}, {
+    "nome": "Trairi",
+    "secapital": false
+}, {
+    "nome": "Tururu",
+    "secapital": false
+}, {
+    "nome": "Ubajara",
+    "secapital": false
+}, {
+    "nome": "Umari",
+    "secapital": false
+}, {
+    "nome": "Umirim",
+    "secapital": false
+}, {
+    "nome": "Uruburetama",
+    "secapital": false
+}, {
+    "nome": "Uruoca",
+    "secapital": false
+}, {
+    "nome": "Varjota",
+    "secapital": false
+}, {
+    "nome": "V\u00e1rzea Alegre",
+    "secapital": false
+}, {
+    "nome": "Vi\u00e7osa do Cear\u00e1",
+    "secapital": false
+}]

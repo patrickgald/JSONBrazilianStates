@@ -1,0 +1,235 @@
+[{
+    "nome": "\u00c1gua Clara",
+    "secapital": false
+}, {
+    "nome": "Alcin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Amambai",
+    "secapital": false
+}, {
+    "nome": "Anast\u00e1cio",
+    "secapital": false
+}, {
+    "nome": "Anauril\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Ang\u00e9lica",
+    "secapital": false
+}, {
+    "nome": "Ant\u00f4nio Jo\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Aparecida do Taboado",
+    "secapital": false
+}, {
+    "nome": "Aquidauana",
+    "secapital": false
+}, {
+    "nome": "Aral Moreira",
+    "secapital": false
+}, {
+    "nome": "Bandeirantes",
+    "secapital": false
+}, {
+    "nome": "Bataguassu",
+    "secapital": false
+}, {
+    "nome": "Bataypor\u00e3",
+    "secapital": false
+}, {
+    "nome": "Bela Vista",
+    "secapital": false
+}, {
+    "nome": "Bodoquena",
+    "secapital": false
+}, {
+    "nome": "Bonito",
+    "secapital": false
+}, {
+    "nome": "Brasil\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Caarap\u00f3",
+    "secapital": false
+}, {
+    "nome": "Camapu\u00e3",
+    "secapital": false
+}, {
+    "nome": "Campo Grande",
+    "secapital": true
+}, {
+    "nome": "Caracol",
+    "secapital": false
+}, {
+    "nome": "Cassil\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Chapad\u00e3o do Sul",
+    "secapital": false
+}, {
+    "nome": "Corguinho",
+    "secapital": false
+}, {
+    "nome": "Coronel Sapucaia",
+    "secapital": false
+}, {
+    "nome": "Corumb\u00e1",
+    "secapital": false
+}, {
+    "nome": "Costa Rica",
+    "secapital": false
+}, {
+    "nome": "Coxim",
+    "secapital": false
+}, {
+    "nome": "Deod\u00e1polis",
+    "secapital": false
+}, {
+    "nome": "Dois Irm\u00e3os do Buriti",
+    "secapital": false
+}, {
+    "nome": "Douradina",
+    "secapital": false
+}, {
+    "nome": "Dourados",
+    "secapital": false
+}, {
+    "nome": "Eldorado",
+    "secapital": false
+}, {
+    "nome": "F\u00e1tima do Sul",
+    "secapital": false
+}, {
+    "nome": "Figueir\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Gl\u00f3ria de Dourados",
+    "secapital": false
+}, {
+    "nome": "Guia Lopes da Laguna",
+    "secapital": false
+}, {
+    "nome": "Iguatemi",
+    "secapital": false
+}, {
+    "nome": "Inoc\u00eancia",
+    "secapital": false
+}, {
+    "nome": "Itapor\u00e3",
+    "secapital": false
+}, {
+    "nome": "Itaquira\u00ed",
+    "secapital": false
+}, {
+    "nome": "Ivinhema",
+    "secapital": false
+}, {
+    "nome": "Japor\u00e3",
+    "secapital": false
+}, {
+    "nome": "Jaraguari",
+    "secapital": false
+}, {
+    "nome": "Jardim",
+    "secapital": false
+}, {
+    "nome": "Jate\u00ed",
+    "secapital": false
+}, {
+    "nome": "Juti",
+    "secapital": false
+}, {
+    "nome": "Lad\u00e1rio",
+    "secapital": false
+}, {
+    "nome": "Laguna Carap\u00e3",
+    "secapital": false
+}, {
+    "nome": "Maracaju",
+    "secapital": false
+}, {
+    "nome": "Miranda",
+    "secapital": false
+}, {
+    "nome": "Mundo Novo",
+    "secapital": false
+}, {
+    "nome": "Navira\u00ed",
+    "secapital": false
+}, {
+    "nome": "Nioaque",
+    "secapital": false
+}, {
+    "nome": "Nova Alvorada do Sul",
+    "secapital": false
+}, {
+    "nome": "Nova Andradina",
+    "secapital": false
+}, {
+    "nome": "Novo Horizonte do Sul",
+    "secapital": false
+}, {
+    "nome": "Parana\u00edba",
+    "secapital": false
+}, {
+    "nome": "Paranhos",
+    "secapital": false
+}, {
+    "nome": "Pedro Gomes",
+    "secapital": false
+}, {
+    "nome": "Ponta Por\u00e3",
+    "secapital": false
+}, {
+    "nome": "Porto Murtinho",
+    "secapital": false
+}, {
+    "nome": "Ribas do Rio Pardo",
+    "secapital": false
+}, {
+    "nome": "Rio Brilhante",
+    "secapital": false
+}, {
+    "nome": "Rio Negro",
+    "secapital": false
+}, {
+    "nome": "Rio Verde de Mato Grosso",
+    "secapital": false
+}, {
+    "nome": "Rochedo",
+    "secapital": false
+}, {
+    "nome": "Santa Rita do Pardo",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gabriel do Oeste",
+    "secapital": false
+}, {
+    "nome": "Selv\u00edria",
+    "secapital": false
+}, {
+    "nome": "Sete Quedas",
+    "secapital": false
+}, {
+    "nome": "Sidrol\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Sonora",
+    "secapital": false
+}, {
+    "nome": "Tacuru",
+    "secapital": false
+}, {
+    "nome": "Taquarussu",
+    "secapital": false
+}, {
+    "nome": "Terenos",
+    "secapital": false
+}, {
+    "nome": "Tr\u00eas Lagoas",
+    "secapital": false
+}, {
+    "nome": "Vicentina",
+    "secapital": false
+}]

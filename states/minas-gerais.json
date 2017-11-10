@@ -1,0 +1,2560 @@
+[{
+    "nome": "Abadia dos Dourados",
+    "secapital": false
+}, {
+    "nome": "Abaet\u00e9",
+    "secapital": false
+}, {
+    "nome": "Abre Campo",
+    "secapital": false
+}, {
+    "nome": "Acaiaca",
+    "secapital": false
+}, {
+    "nome": "A\u00e7ucena",
+    "secapital": false
+}, {
+    "nome": "\u00c1gua Boa",
+    "secapital": false
+}, {
+    "nome": "\u00c1gua Comprida",
+    "secapital": false
+}, {
+    "nome": "Aguanil",
+    "secapital": false
+}, {
+    "nome": "\u00c1guas Formosas",
+    "secapital": false
+}, {
+    "nome": "\u00c1guas Vermelhas",
+    "secapital": false
+}, {
+    "nome": "Aimor\u00e9s",
+    "secapital": false
+}, {
+    "nome": "Aiuruoca",
+    "secapital": false
+}, {
+    "nome": "Alagoa",
+    "secapital": false
+}, {
+    "nome": "Albertina",
+    "secapital": false
+}, {
+    "nome": "Al\u00e9m Para\u00edba",
+    "secapital": false
+}, {
+    "nome": "Alfenas",
+    "secapital": false
+}, {
+    "nome": "Alfredo Vasconcelos",
+    "secapital": false
+}, {
+    "nome": "Almenara",
+    "secapital": false
+}, {
+    "nome": "Alpercata",
+    "secapital": false
+}, {
+    "nome": "Alpin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Alterosa",
+    "secapital": false
+}, {
+    "nome": "Alto Capara\u00f3",
+    "secapital": false
+}, {
+    "nome": "Alto Jequitib\u00e1",
+    "secapital": false
+}, {
+    "nome": "Alto Rio Doce",
+    "secapital": false
+}, {
+    "nome": "Alvarenga",
+    "secapital": false
+}, {
+    "nome": "Alvin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Alvorada de Minas",
+    "secapital": false
+}, {
+    "nome": "Amparo do Serra",
+    "secapital": false
+}, {
+    "nome": "Andradas",
+    "secapital": false
+}, {
+    "nome": "Andrel\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Angel\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Ant\u00f4nio Carlos",
+    "secapital": false
+}, {
+    "nome": "Ant\u00f4nio Dias",
+    "secapital": false
+}, {
+    "nome": "Ant\u00f4nio Prado de Minas",
+    "secapital": false
+}, {
+    "nome": "Ara\u00e7a\u00ed",
+    "secapital": false
+}, {
+    "nome": "Aracitaba",
+    "secapital": false
+}, {
+    "nome": "Ara\u00e7ua\u00ed",
+    "secapital": false
+}, {
+    "nome": "Araguari",
+    "secapital": false
+}, {
+    "nome": "Arantina",
+    "secapital": false
+}, {
+    "nome": "Araponga",
+    "secapital": false
+}, {
+    "nome": "Arapor\u00e3",
+    "secapital": false
+}, {
+    "nome": "Arapu\u00e1",
+    "secapital": false
+}, {
+    "nome": "Ara\u00fajos",
+    "secapital": false
+}, {
+    "nome": "Arax\u00e1",
+    "secapital": false
+}, {
+    "nome": "Arceburgo",
+    "secapital": false
+}, {
+    "nome": "Arcos",
+    "secapital": false
+}, {
+    "nome": "Areado",
+    "secapital": false
+}, {
+    "nome": "Argirita",
+    "secapital": false
+}, {
+    "nome": "Aricanduva",
+    "secapital": false
+}, {
+    "nome": "Arinos",
+    "secapital": false
+}, {
+    "nome": "Astolfo Dutra",
+    "secapital": false
+}, {
+    "nome": "Atal\u00e9ia",
+    "secapital": false
+}, {
+    "nome": "Augusto de Lima",
+    "secapital": false
+}, {
+    "nome": "Baependi",
+    "secapital": false
+}, {
+    "nome": "Baldim",
+    "secapital": false
+}, {
+    "nome": "Bambu\u00ed",
+    "secapital": false
+}, {
+    "nome": "Bandeira",
+    "secapital": false
+}, {
+    "nome": "Bandeira do Sul",
+    "secapital": false
+}, {
+    "nome": "Bar\u00e3o de Cocais",
+    "secapital": false
+}, {
+    "nome": "Bar\u00e3o de Monte Alto",
+    "secapital": false
+}, {
+    "nome": "Barbacena",
+    "secapital": false
+}, {
+    "nome": "Barra Longa",
+    "secapital": false
+}, {
+    "nome": "Barroso",
+    "secapital": false
+}, {
+    "nome": "Bela Vista de Minas",
+    "secapital": false
+}, {
+    "nome": "Belmiro Braga",
+    "secapital": false
+}, {
+    "nome": "Belo Horizonte",
+    "secapital": true
+}, {
+    "nome": "Belo Oriente",
+    "secapital": false
+}, {
+    "nome": "Belo Vale",
+    "secapital": false
+}, {
+    "nome": "Berilo",
+    "secapital": false
+}, {
+    "nome": "Berizal",
+    "secapital": false
+}, {
+    "nome": "Bert\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Betim",
+    "secapital": false
+}, {
+    "nome": "Bias Fortes",
+    "secapital": false
+}, {
+    "nome": "Bicas",
+    "secapital": false
+}, {
+    "nome": "Biquinhas",
+    "secapital": false
+}, {
+    "nome": "Boa Esperan\u00e7a",
+    "secapital": false
+}, {
+    "nome": "Bocaina de Minas",
+    "secapital": false
+}, {
+    "nome": "Bocai\u00fava",
+    "secapital": false
+}, {
+    "nome": "Bom Despacho",
+    "secapital": false
+}, {
+    "nome": "Bom Jardim de Minas",
+    "secapital": false
+}, {
+    "nome": "Bom Jesus da Penha",
+    "secapital": false
+}, {
+    "nome": "Bom Jesus do Amparo",
+    "secapital": false
+}, {
+    "nome": "Bom Jesus do Galho",
+    "secapital": false
+}, {
+    "nome": "Bom Repouso",
+    "secapital": false
+}, {
+    "nome": "Bom Sucesso",
+    "secapital": false
+}, {
+    "nome": "Bonfim",
+    "secapital": false
+}, {
+    "nome": "Bonfin\u00f3polis de Minas",
+    "secapital": false
+}, {
+    "nome": "Bonito de Minas",
+    "secapital": false
+}, {
+    "nome": "Borda da Mata",
+    "secapital": false
+}, {
+    "nome": "Botelhos",
+    "secapital": false
+}, {
+    "nome": "Botumirim",
+    "secapital": false
+}, {
+    "nome": "Br\u00e1s Pires",
+    "secapital": false
+}, {
+    "nome": "Brasil\u00e2ndia de Minas",
+    "secapital": false
+}, {
+    "nome": "Bras\u00edlia de Minas",
+    "secapital": false
+}, {
+    "nome": "Bras\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Bra\u00fanas",
+    "secapital": false
+}, {
+    "nome": "Brumadinho",
+    "secapital": false
+}, {
+    "nome": "Bueno Brand\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Buen\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Bugre",
+    "secapital": false
+}, {
+    "nome": "Buritis",
+    "secapital": false
+}, {
+    "nome": "Buritizeiro",
+    "secapital": false
+}, {
+    "nome": "Cabeceira Grande",
+    "secapital": false
+}, {
+    "nome": "Cabo Verde",
+    "secapital": false
+}, {
+    "nome": "Cachoeira da Prata",
+    "secapital": false
+}, {
+    "nome": "Cachoeira de Minas",
+    "secapital": false
+}, {
+    "nome": "Cachoeira de Paje\u00fa",
+    "secapital": false
+}, {
+    "nome": "Cachoeira Dourada",
+    "secapital": false
+}, {
+    "nome": "Caetan\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Caet\u00e9",
+    "secapital": false
+}, {
+    "nome": "Caiana",
+    "secapital": false
+}, {
+    "nome": "Cajuri",
+    "secapital": false
+}, {
+    "nome": "Caldas",
+    "secapital": false
+}, {
+    "nome": "Camacho",
+    "secapital": false
+}, {
+    "nome": "Camanducaia",
+    "secapital": false
+}, {
+    "nome": "Cambu\u00ed",
+    "secapital": false
+}, {
+    "nome": "Cambuquira",
+    "secapital": false
+}, {
+    "nome": "Campan\u00e1rio",
+    "secapital": false
+}, {
+    "nome": "Campanha",
+    "secapital": false
+}, {
+    "nome": "Campestre",
+    "secapital": false
+}, {
+    "nome": "Campina Verde",
+    "secapital": false
+}, {
+    "nome": "Campo Azul",
+    "secapital": false
+}, {
+    "nome": "Campo Belo",
+    "secapital": false
+}, {
+    "nome": "Campo do Meio",
+    "secapital": false
+}, {
+    "nome": "Campo Florido",
+    "secapital": false
+}, {
+    "nome": "Campos Altos",
+    "secapital": false
+}, {
+    "nome": "Campos Gerais",
+    "secapital": false
+}, {
+    "nome": "Cana Verde",
+    "secapital": false
+}, {
+    "nome": "Cana\u00e3",
+    "secapital": false
+}, {
+    "nome": "Can\u00e1polis",
+    "secapital": false
+}, {
+    "nome": "Candeias",
+    "secapital": false
+}, {
+    "nome": "Cantagalo",
+    "secapital": false
+}, {
+    "nome": "Capara\u00f3",
+    "secapital": false
+}, {
+    "nome": "Capela Nova",
+    "secapital": false
+}, {
+    "nome": "Capelinha",
+    "secapital": false
+}, {
+    "nome": "Capetinga",
+    "secapital": false
+}, {
+    "nome": "Capim Branco",
+    "secapital": false
+}, {
+    "nome": "Capin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Capit\u00e3o Andrade",
+    "secapital": false
+}, {
+    "nome": "Capit\u00e3o En\u00e9as",
+    "secapital": false
+}, {
+    "nome": "Capit\u00f3lio",
+    "secapital": false
+}, {
+    "nome": "Caputira",
+    "secapital": false
+}, {
+    "nome": "Cara\u00ed",
+    "secapital": false
+}, {
+    "nome": "Carana\u00edba",
+    "secapital": false
+}, {
+    "nome": "Caranda\u00ed",
+    "secapital": false
+}, {
+    "nome": "Carangola",
+    "secapital": false
+}, {
+    "nome": "Caratinga",
+    "secapital": false
+}, {
+    "nome": "Carbonita",
+    "secapital": false
+}, {
+    "nome": "Carea\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Carlos Chagas",
+    "secapital": false
+}, {
+    "nome": "Carm\u00e9sia",
+    "secapital": false
+}, {
+    "nome": "Carmo da Cachoeira",
+    "secapital": false
+}, {
+    "nome": "Carmo da Mata",
+    "secapital": false
+}, {
+    "nome": "Carmo de Minas",
+    "secapital": false
+}, {
+    "nome": "Carmo do Cajuru",
+    "secapital": false
+}, {
+    "nome": "Carmo do Parana\u00edba",
+    "secapital": false
+}, {
+    "nome": "Carmo do Rio Claro",
+    "secapital": false
+}, {
+    "nome": "Carm\u00f3polis de Minas",
+    "secapital": false
+}, {
+    "nome": "Carneirinho",
+    "secapital": false
+}, {
+    "nome": "Carrancas",
+    "secapital": false
+}, {
+    "nome": "Carvalh\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Carvalhos",
+    "secapital": false
+}, {
+    "nome": "Casa Grande",
+    "secapital": false
+}, {
+    "nome": "Cascalho Rico",
+    "secapital": false
+}, {
+    "nome": "C\u00e1ssia",
+    "secapital": false
+}, {
+    "nome": "Cataguases",
+    "secapital": false
+}, {
+    "nome": "Catas Altas",
+    "secapital": false
+}, {
+    "nome": "Catas Altas da Noruega",
+    "secapital": false
+}, {
+    "nome": "Catuji",
+    "secapital": false
+}, {
+    "nome": "Catuti",
+    "secapital": false
+}, {
+    "nome": "Caxambu",
+    "secapital": false
+}, {
+    "nome": "Cedro do Abaet\u00e9",
+    "secapital": false
+}, {
+    "nome": "Central de Minas",
+    "secapital": false
+}, {
+    "nome": "Centralina",
+    "secapital": false
+}, {
+    "nome": "Ch\u00e1cara",
+    "secapital": false
+}, {
+    "nome": "Chal\u00e9",
+    "secapital": false
+}, {
+    "nome": "Chapada do Norte",
+    "secapital": false
+}, {
+    "nome": "Chapada Ga\u00facha",
+    "secapital": false
+}, {
+    "nome": "Chiador",
+    "secapital": false
+}, {
+    "nome": "Cipot\u00e2nea",
+    "secapital": false
+}, {
+    "nome": "Claraval",
+    "secapital": false
+}, {
+    "nome": "Claro dos Po\u00e7\u00f5es",
+    "secapital": false
+}, {
+    "nome": "Cl\u00e1udio",
+    "secapital": false
+}, {
+    "nome": "Coimbra",
+    "secapital": false
+}, {
+    "nome": "Coluna",
+    "secapital": false
+}, {
+    "nome": "Comendador Gomes",
+    "secapital": false
+}, {
+    "nome": "Comercinho",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o da Aparecida",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o da Barra de Minas",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o das Alagoas",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o das Pedras",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o de Ipanema",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o do Mato Dentro",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o do Par\u00e1",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o do Rio Verde",
+    "secapital": false
+}, {
+    "nome": "Concei\u00e7\u00e3o dos Ouros",
+    "secapital": false
+}, {
+    "nome": "C\u00f4nego Marinho",
+    "secapital": false
+}, {
+    "nome": "Confins",
+    "secapital": false
+}, {
+    "nome": "Congonhal",
+    "secapital": false
+}, {
+    "nome": "Congonhas",
+    "secapital": false
+}, {
+    "nome": "Congonhas do Norte",
+    "secapital": false
+}, {
+    "nome": "Conquista",
+    "secapital": false
+}, {
+    "nome": "Conselheiro Lafaiete",
+    "secapital": false
+}, {
+    "nome": "Conselheiro Pena",
+    "secapital": false
+}, {
+    "nome": "Consola\u00e7\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Contagem",
+    "secapital": false
+}, {
+    "nome": "Coqueiral",
+    "secapital": false
+}, {
+    "nome": "Cora\u00e7\u00e3o de Jesus",
+    "secapital": false
+}, {
+    "nome": "Cordisburgo",
+    "secapital": false
+}, {
+    "nome": "Cordisl\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Corinto",
+    "secapital": false
+}, {
+    "nome": "Coroaci",
+    "secapital": false
+}, {
+    "nome": "Coromandel",
+    "secapital": false
+}, {
+    "nome": "Coronel Fabriciano",
+    "secapital": false
+}, {
+    "nome": "Coronel Murta",
+    "secapital": false
+}, {
+    "nome": "Coronel Pacheco",
+    "secapital": false
+}, {
+    "nome": "Coronel Xavier Chaves",
+    "secapital": false
+}, {
+    "nome": "C\u00f3rrego Danta",
+    "secapital": false
+}, {
+    "nome": "C\u00f3rrego do Bom Jesus",
+    "secapital": false
+}, {
+    "nome": "C\u00f3rrego Fundo",
+    "secapital": false
+}, {
+    "nome": "C\u00f3rrego Novo",
+    "secapital": false
+}, {
+    "nome": "Couto de Magalh\u00e3es de Minas",
+    "secapital": false
+}, {
+    "nome": "Cris\u00f3lita",
+    "secapital": false
+}, {
+    "nome": "Cristais",
+    "secapital": false
+}, {
+    "nome": "Crist\u00e1lia",
+    "secapital": false
+}, {
+    "nome": "Cristiano Otoni",
+    "secapital": false
+}, {
+    "nome": "Cristina",
+    "secapital": false
+}, {
+    "nome": "Crucil\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Cruzeiro da Fortaleza",
+    "secapital": false
+}, {
+    "nome": "Cruz\u00edlia",
+    "secapital": false
+}, {
+    "nome": "Cuparaque",
+    "secapital": false
+}, {
+    "nome": "Curral de Dentro",
+    "secapital": false
+}, {
+    "nome": "Curvelo",
+    "secapital": false
+}, {
+    "nome": "Datas",
+    "secapital": false
+}, {
+    "nome": "Delfim Moreira",
+    "secapital": false
+}, {
+    "nome": "Delfin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Delta",
+    "secapital": false
+}, {
+    "nome": "Descoberto",
+    "secapital": false
+}, {
+    "nome": "Desterro de Entre Rios",
+    "secapital": false
+}, {
+    "nome": "Desterro do Melo",
+    "secapital": false
+}, {
+    "nome": "Diamantina",
+    "secapital": false
+}, {
+    "nome": "Diogo de Vasconcelos",
+    "secapital": false
+}, {
+    "nome": "Dion\u00edsio",
+    "secapital": false
+}, {
+    "nome": "Divin\u00e9sia",
+    "secapital": false
+}, {
+    "nome": "Divino",
+    "secapital": false
+}, {
+    "nome": "Divino das Laranjeiras",
+    "secapital": false
+}, {
+    "nome": "Divinol\u00e2ndia de Minas",
+    "secapital": false
+}, {
+    "nome": "Divin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Divisa Alegre",
+    "secapital": false
+}, {
+    "nome": "Divisa Nova",
+    "secapital": false
+}, {
+    "nome": "Divis\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Dom Bosco",
+    "secapital": false
+}, {
+    "nome": "Dom Cavati",
+    "secapital": false
+}, {
+    "nome": "Dom Joaquim",
+    "secapital": false
+}, {
+    "nome": "Dom Silv\u00e9rio",
+    "secapital": false
+}, {
+    "nome": "Dom Vi\u00e7oso",
+    "secapital": false
+}, {
+    "nome": "Dona Eus\u00e9bia",
+    "secapital": false
+}, {
+    "nome": "Dores de Campos",
+    "secapital": false
+}, {
+    "nome": "Dores de Guanh\u00e3es",
+    "secapital": false
+}, {
+    "nome": "Dores do Indai\u00e1",
+    "secapital": false
+}, {
+    "nome": "Dores do Turvo",
+    "secapital": false
+}, {
+    "nome": "Dores\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Douradoquara",
+    "secapital": false
+}, {
+    "nome": "Durand\u00e9",
+    "secapital": false
+}, {
+    "nome": "El\u00f3i Mendes",
+    "secapital": false
+}, {
+    "nome": "Engenheiro Caldas",
+    "secapital": false
+}, {
+    "nome": "Engenheiro Navarro",
+    "secapital": false
+}, {
+    "nome": "Entre Folhas",
+    "secapital": false
+}, {
+    "nome": "Entre Rios de Minas",
+    "secapital": false
+}, {
+    "nome": "Erv\u00e1lia",
+    "secapital": false
+}, {
+    "nome": "Esmeraldas",
+    "secapital": false
+}, {
+    "nome": "Espera Feliz",
+    "secapital": false
+}, {
+    "nome": "Espinosa",
+    "secapital": false
+}, {
+    "nome": "Esp\u00edrito Santo do Dourado",
+    "secapital": false
+}, {
+    "nome": "Estiva",
+    "secapital": false
+}, {
+    "nome": "Estrela Dalva",
+    "secapital": false
+}, {
+    "nome": "Estrela do Indai\u00e1",
+    "secapital": false
+}, {
+    "nome": "Estrela do Sul",
+    "secapital": false
+}, {
+    "nome": "Eugen\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Ewbank da C\u00e2mara",
+    "secapital": false
+}, {
+    "nome": "Extrema",
+    "secapital": false
+}, {
+    "nome": "Fama",
+    "secapital": false
+}, {
+    "nome": "Faria Lemos",
+    "secapital": false
+}, {
+    "nome": "Fel\u00edcio dos Santos",
+    "secapital": false
+}, {
+    "nome": "Felisburgo",
+    "secapital": false
+}, {
+    "nome": "Felixl\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Fernandes Tourinho",
+    "secapital": false
+}, {
+    "nome": "Ferros",
+    "secapital": false
+}, {
+    "nome": "Fervedouro",
+    "secapital": false
+}, {
+    "nome": "Florestal",
+    "secapital": false
+}, {
+    "nome": "Formiga",
+    "secapital": false
+}, {
+    "nome": "Formoso",
+    "secapital": false
+}, {
+    "nome": "Fortaleza de Minas",
+    "secapital": false
+}, {
+    "nome": "Fortuna de Minas",
+    "secapital": false
+}, {
+    "nome": "Francisco Badar\u00f3",
+    "secapital": false
+}, {
+    "nome": "Francisco Dumont",
+    "secapital": false
+}, {
+    "nome": "Francisco S\u00e1",
+    "secapital": false
+}, {
+    "nome": "Francisc\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Frei Gaspar",
+    "secapital": false
+}, {
+    "nome": "Frei Inoc\u00eancio",
+    "secapital": false
+}, {
+    "nome": "Frei Lagonegro",
+    "secapital": false
+}, {
+    "nome": "Fronteira",
+    "secapital": false
+}, {
+    "nome": "Fronteira dos Vales",
+    "secapital": false
+}, {
+    "nome": "Fruta de Leite",
+    "secapital": false
+}, {
+    "nome": "Frutal",
+    "secapital": false
+}, {
+    "nome": "Funil\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Galil\u00e9ia",
+    "secapital": false
+}, {
+    "nome": "Gameleiras",
+    "secapital": false
+}, {
+    "nome": "Glaucil\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Goiabeira",
+    "secapital": false
+}, {
+    "nome": "Goian\u00e1",
+    "secapital": false
+}, {
+    "nome": "Gon\u00e7alves",
+    "secapital": false
+}, {
+    "nome": "Gonzaga",
+    "secapital": false
+}, {
+    "nome": "Gouveia",
+    "secapital": false
+}, {
+    "nome": "Governador Valadares",
+    "secapital": false
+}, {
+    "nome": "Gr\u00e3o Mogol",
+    "secapital": false
+}, {
+    "nome": "Grupiara",
+    "secapital": false
+}, {
+    "nome": "Guanh\u00e3es",
+    "secapital": false
+}, {
+    "nome": "Guap\u00e9",
+    "secapital": false
+}, {
+    "nome": "Guaraciaba",
+    "secapital": false
+}, {
+    "nome": "Guaraciama",
+    "secapital": false
+}, {
+    "nome": "Guaran\u00e9sia",
+    "secapital": false
+}, {
+    "nome": "Guarani",
+    "secapital": false
+}, {
+    "nome": "Guarar\u00e1",
+    "secapital": false
+}, {
+    "nome": "Guarda-Mor",
+    "secapital": false
+}, {
+    "nome": "Guaxup\u00e9",
+    "secapital": false
+}, {
+    "nome": "Guidoval",
+    "secapital": false
+}, {
+    "nome": "Guimar\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Guiricema",
+    "secapital": false
+}, {
+    "nome": "Gurinhat\u00e3",
+    "secapital": false
+}, {
+    "nome": "Heliodora",
+    "secapital": false
+}, {
+    "nome": "Iapu",
+    "secapital": false
+}, {
+    "nome": "Ibertioga",
+    "secapital": false
+}, {
+    "nome": "Ibi\u00e1",
+    "secapital": false
+}, {
+    "nome": "Ibia\u00ed",
+    "secapital": false
+}, {
+    "nome": "Ibiracatu",
+    "secapital": false
+}, {
+    "nome": "Ibiraci",
+    "secapital": false
+}, {
+    "nome": "Ibirit\u00e9",
+    "secapital": false
+}, {
+    "nome": "Ibiti\u00fara de Minas",
+    "secapital": false
+}, {
+    "nome": "Ibituruna",
+    "secapital": false
+}, {
+    "nome": "Icara\u00ed de Minas",
+    "secapital": false
+}, {
+    "nome": "Igarap\u00e9",
+    "secapital": false
+}, {
+    "nome": "Igaratinga",
+    "secapital": false
+}, {
+    "nome": "Iguatama",
+    "secapital": false
+}, {
+    "nome": "Ijaci",
+    "secapital": false
+}, {
+    "nome": "Ilic\u00ednea",
+    "secapital": false
+}, {
+    "nome": "Imb\u00e9 de Minas",
+    "secapital": false
+}, {
+    "nome": "Inconfidentes",
+    "secapital": false
+}, {
+    "nome": "Indaiabira",
+    "secapital": false
+}, {
+    "nome": "Indian\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Inga\u00ed",
+    "secapital": false
+}, {
+    "nome": "Inhapim",
+    "secapital": false
+}, {
+    "nome": "Inha\u00fama",
+    "secapital": false
+}, {
+    "nome": "Inimutaba",
+    "secapital": false
+}, {
+    "nome": "Ipaba",
+    "secapital": false
+}, {
+    "nome": "Ipanema",
+    "secapital": false
+}, {
+    "nome": "Ipatinga",
+    "secapital": false
+}, {
+    "nome": "Ipia\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Ipui\u00fana",
+    "secapital": false
+}, {
+    "nome": "Ira\u00ed de Minas",
+    "secapital": false
+}, {
+    "nome": "Itabira",
+    "secapital": false
+}, {
+    "nome": "Itabirinha",
+    "secapital": false
+}, {
+    "nome": "Itabirito",
+    "secapital": false
+}, {
+    "nome": "Itacambira",
+    "secapital": false
+}, {
+    "nome": "Itacarambi",
+    "secapital": false
+}, {
+    "nome": "Itaguara",
+    "secapital": false
+}, {
+    "nome": "Itaip\u00e9",
+    "secapital": false
+}, {
+    "nome": "Itajub\u00e1",
+    "secapital": false
+}, {
+    "nome": "Itamarandiba",
+    "secapital": false
+}, {
+    "nome": "Itamarati de Minas",
+    "secapital": false
+}, {
+    "nome": "Itambacuri",
+    "secapital": false
+}, {
+    "nome": "Itamb\u00e9 do Mato Dentro",
+    "secapital": false
+}, {
+    "nome": "Itamogi",
+    "secapital": false
+}, {
+    "nome": "Itamonte",
+    "secapital": false
+}, {
+    "nome": "Itanhandu",
+    "secapital": false
+}, {
+    "nome": "Itanhomi",
+    "secapital": false
+}, {
+    "nome": "Itaobim",
+    "secapital": false
+}, {
+    "nome": "Itapagipe",
+    "secapital": false
+}, {
+    "nome": "Itapecerica",
+    "secapital": false
+}, {
+    "nome": "Itapeva",
+    "secapital": false
+}, {
+    "nome": "Itatiaiu\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Ita\u00fa de Minas",
+    "secapital": false
+}, {
+    "nome": "Ita\u00fana",
+    "secapital": false
+}, {
+    "nome": "Itaverava",
+    "secapital": false
+}, {
+    "nome": "Itinga",
+    "secapital": false
+}, {
+    "nome": "Itueta",
+    "secapital": false
+}, {
+    "nome": "Ituiutaba",
+    "secapital": false
+}, {
+    "nome": "Itumirim",
+    "secapital": false
+}, {
+    "nome": "Iturama",
+    "secapital": false
+}, {
+    "nome": "Itutinga",
+    "secapital": false
+}, {
+    "nome": "Jaboticatubas",
+    "secapital": false
+}, {
+    "nome": "Jacinto",
+    "secapital": false
+}, {
+    "nome": "Jacu\u00ed",
+    "secapital": false
+}, {
+    "nome": "Jacutinga",
+    "secapital": false
+}, {
+    "nome": "Jaguara\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Ja\u00edba",
+    "secapital": false
+}, {
+    "nome": "Jampruca",
+    "secapital": false
+}, {
+    "nome": "Jana\u00faba",
+    "secapital": false
+}, {
+    "nome": "Janu\u00e1ria",
+    "secapital": false
+}, {
+    "nome": "Japara\u00edba",
+    "secapital": false
+}, {
+    "nome": "Japonvar",
+    "secapital": false
+}, {
+    "nome": "Jeceaba",
+    "secapital": false
+}, {
+    "nome": "Jenipapo de Minas",
+    "secapital": false
+}, {
+    "nome": "Jequeri",
+    "secapital": false
+}, {
+    "nome": "Jequita\u00ed",
+    "secapital": false
+}, {
+    "nome": "Jequitib\u00e1",
+    "secapital": false
+}, {
+    "nome": "Jequitinhonha",
+    "secapital": false
+}, {
+    "nome": "Jesu\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Joa\u00edma",
+    "secapital": false
+}, {
+    "nome": "Joan\u00e9sia",
+    "secapital": false
+}, {
+    "nome": "Jo\u00e3o Monlevade",
+    "secapital": false
+}, {
+    "nome": "Jo\u00e3o Pinheiro",
+    "secapital": false
+}, {
+    "nome": "Joaquim Fel\u00edcio",
+    "secapital": false
+}, {
+    "nome": "Jord\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Jos\u00e9 Gon\u00e7alves de Minas",
+    "secapital": false
+}, {
+    "nome": "Jos\u00e9 Raydan",
+    "secapital": false
+}, {
+    "nome": "Josen\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Juatuba",
+    "secapital": false
+}, {
+    "nome": "Juiz de Fora",
+    "secapital": false
+}, {
+    "nome": "Juramento",
+    "secapital": false
+}, {
+    "nome": "Juruaia",
+    "secapital": false
+}, {
+    "nome": "Juven\u00edlia",
+    "secapital": false
+}, {
+    "nome": "Ladainha",
+    "secapital": false
+}, {
+    "nome": "Lagamar",
+    "secapital": false
+}, {
+    "nome": "Lagoa da Prata",
+    "secapital": false
+}, {
+    "nome": "Lagoa dos Patos",
+    "secapital": false
+}, {
+    "nome": "Lagoa Dourada",
+    "secapital": false
+}, {
+    "nome": "Lagoa Formosa",
+    "secapital": false
+}, {
+    "nome": "Lagoa Grande",
+    "secapital": false
+}, {
+    "nome": "Lagoa Santa",
+    "secapital": false
+}, {
+    "nome": "Lajinha",
+    "secapital": false
+}, {
+    "nome": "Lambari",
+    "secapital": false
+}, {
+    "nome": "Lamim",
+    "secapital": false
+}, {
+    "nome": "Laranjal",
+    "secapital": false
+}, {
+    "nome": "Lassance",
+    "secapital": false
+}, {
+    "nome": "Lavras",
+    "secapital": false
+}, {
+    "nome": "Leandro Ferreira",
+    "secapital": false
+}, {
+    "nome": "Leme do Prado",
+    "secapital": false
+}, {
+    "nome": "Leopoldina",
+    "secapital": false
+}, {
+    "nome": "Liberdade",
+    "secapital": false
+}, {
+    "nome": "Lima Duarte",
+    "secapital": false
+}, {
+    "nome": "Limeira do Oeste",
+    "secapital": false
+}, {
+    "nome": "Lontra",
+    "secapital": false
+}, {
+    "nome": "Luisburgo",
+    "secapital": false
+}, {
+    "nome": "Luisl\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Lumin\u00e1rias",
+    "secapital": false
+}, {
+    "nome": "Luz",
+    "secapital": false
+}, {
+    "nome": "Machacalis",
+    "secapital": false
+}, {
+    "nome": "Machado",
+    "secapital": false
+}, {
+    "nome": "Madre de Deus de Minas",
+    "secapital": false
+}, {
+    "nome": "Malacacheta",
+    "secapital": false
+}, {
+    "nome": "Mamonas",
+    "secapital": false
+}, {
+    "nome": "Manga",
+    "secapital": false
+}, {
+    "nome": "Manhua\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Manhumirim",
+    "secapital": false
+}, {
+    "nome": "Mantena",
+    "secapital": false
+}, {
+    "nome": "Mar de Espanha",
+    "secapital": false
+}, {
+    "nome": "Maravilhas",
+    "secapital": false
+}, {
+    "nome": "Maria da F\u00e9",
+    "secapital": false
+}, {
+    "nome": "Mariana",
+    "secapital": false
+}, {
+    "nome": "Marilac",
+    "secapital": false
+}, {
+    "nome": "M\u00e1rio Campos",
+    "secapital": false
+}, {
+    "nome": "Marip\u00e1 de Minas",
+    "secapital": false
+}, {
+    "nome": "Marli\u00e9ria",
+    "secapital": false
+}, {
+    "nome": "Marmel\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Martinho Campos",
+    "secapital": false
+}, {
+    "nome": "Martins Soares",
+    "secapital": false
+}, {
+    "nome": "Mata Verde",
+    "secapital": false
+}, {
+    "nome": "Materl\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Mateus Leme",
+    "secapital": false
+}, {
+    "nome": "Mathias Lobato",
+    "secapital": false
+}, {
+    "nome": "Matias Barbosa",
+    "secapital": false
+}, {
+    "nome": "Matias Cardoso",
+    "secapital": false
+}, {
+    "nome": "Matip\u00f3",
+    "secapital": false
+}, {
+    "nome": "Mato Verde",
+    "secapital": false
+}, {
+    "nome": "Matozinhos",
+    "secapital": false
+}, {
+    "nome": "Matutina",
+    "secapital": false
+}, {
+    "nome": "Medeiros",
+    "secapital": false
+}, {
+    "nome": "Medina",
+    "secapital": false
+}, {
+    "nome": "Mendes Pimentel",
+    "secapital": false
+}, {
+    "nome": "Merc\u00eas",
+    "secapital": false
+}, {
+    "nome": "Mesquita",
+    "secapital": false
+}, {
+    "nome": "Minas Novas",
+    "secapital": false
+}, {
+    "nome": "Minduri",
+    "secapital": false
+}, {
+    "nome": "Mirabela",
+    "secapital": false
+}, {
+    "nome": "Miradouro",
+    "secapital": false
+}, {
+    "nome": "Mira\u00ed",
+    "secapital": false
+}, {
+    "nome": "Mirav\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Moeda",
+    "secapital": false
+}, {
+    "nome": "Moema",
+    "secapital": false
+}, {
+    "nome": "Monjolos",
+    "secapital": false
+}, {
+    "nome": "Monsenhor Paulo",
+    "secapital": false
+}, {
+    "nome": "Montalv\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Monte Alegre de Minas",
+    "secapital": false
+}, {
+    "nome": "Monte Azul",
+    "secapital": false
+}, {
+    "nome": "Monte Belo",
+    "secapital": false
+}, {
+    "nome": "Monte Carmelo",
+    "secapital": false
+}, {
+    "nome": "Monte Formoso",
+    "secapital": false
+}, {
+    "nome": "Monte Santo de Minas",
+    "secapital": false
+}, {
+    "nome": "Monte Si\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Montes Claros",
+    "secapital": false
+}, {
+    "nome": "Montezuma",
+    "secapital": false
+}, {
+    "nome": "Morada Nova de Minas",
+    "secapital": false
+}, {
+    "nome": "Morro da Gar\u00e7a",
+    "secapital": false
+}, {
+    "nome": "Morro do Pilar",
+    "secapital": false
+}, {
+    "nome": "Munhoz",
+    "secapital": false
+}, {
+    "nome": "Muria\u00e9",
+    "secapital": false
+}, {
+    "nome": "Mutum",
+    "secapital": false
+}, {
+    "nome": "Muzambinho",
+    "secapital": false
+}, {
+    "nome": "Nacip Raydan",
+    "secapital": false
+}, {
+    "nome": "Nanuque",
+    "secapital": false
+}, {
+    "nome": "Naque",
+    "secapital": false
+}, {
+    "nome": "Natal\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Nat\u00e9rcia",
+    "secapital": false
+}, {
+    "nome": "Nazareno",
+    "secapital": false
+}, {
+    "nome": "Nepomuceno",
+    "secapital": false
+}, {
+    "nome": "Ninheira",
+    "secapital": false
+}, {
+    "nome": "Nova Bel\u00e9m",
+    "secapital": false
+}, {
+    "nome": "Nova Era",
+    "secapital": false
+}, {
+    "nome": "Nova Lima",
+    "secapital": false
+}, {
+    "nome": "Nova M\u00f3dica",
+    "secapital": false
+}, {
+    "nome": "Nova Ponte",
+    "secapital": false
+}, {
+    "nome": "Nova Porteirinha",
+    "secapital": false
+}, {
+    "nome": "Nova Resende",
+    "secapital": false
+}, {
+    "nome": "Nova Serrana",
+    "secapital": false
+}, {
+    "nome": "Nova Uni\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Novo Cruzeiro",
+    "secapital": false
+}, {
+    "nome": "Novo Oriente de Minas",
+    "secapital": false
+}, {
+    "nome": "Novorizonte",
+    "secapital": false
+}, {
+    "nome": "Olaria",
+    "secapital": false
+}, {
+    "nome": "Olhos-d'\u00c1gua",
+    "secapital": false
+}, {
+    "nome": "Ol\u00edmpio Noronha",
+    "secapital": false
+}, {
+    "nome": "Oliveira",
+    "secapital": false
+}, {
+    "nome": "Oliveira Fortes",
+    "secapital": false
+}, {
+    "nome": "On\u00e7a de Pitangui",
+    "secapital": false
+}, {
+    "nome": "Orat\u00f3rios",
+    "secapital": false
+}, {
+    "nome": "Oriz\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Ouro Branco",
+    "secapital": false
+}, {
+    "nome": "Ouro Fino",
+    "secapital": false
+}, {
+    "nome": "Ouro Preto",
+    "secapital": false
+}, {
+    "nome": "Ouro Verde de Minas",
+    "secapital": false
+}, {
+    "nome": "Padre Carvalho",
+    "secapital": false
+}, {
+    "nome": "Padre Para\u00edso",
+    "secapital": false
+}, {
+    "nome": "Pai Pedro",
+    "secapital": false
+}, {
+    "nome": "Paineiras",
+    "secapital": false
+}, {
+    "nome": "Pains",
+    "secapital": false
+}, {
+    "nome": "Paiva",
+    "secapital": false
+}, {
+    "nome": "Palma",
+    "secapital": false
+}, {
+    "nome": "Palm\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Papagaios",
+    "secapital": false
+}, {
+    "nome": "Par\u00e1 de Minas",
+    "secapital": false
+}, {
+    "nome": "Paracatu",
+    "secapital": false
+}, {
+    "nome": "Paragua\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Parais\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Paraopeba",
+    "secapital": false
+}, {
+    "nome": "Passa Quatro",
+    "secapital": false
+}, {
+    "nome": "Passa Tempo",
+    "secapital": false
+}, {
+    "nome": "Passa-Vinte",
+    "secapital": false
+}, {
+    "nome": "Passab\u00e9m",
+    "secapital": false
+}, {
+    "nome": "Passos",
+    "secapital": false
+}, {
+    "nome": "Patis",
+    "secapital": false
+}, {
+    "nome": "Patos de Minas",
+    "secapital": false
+}, {
+    "nome": "Patroc\u00ednio",
+    "secapital": false
+}, {
+    "nome": "Patroc\u00ednio do Muria\u00e9",
+    "secapital": false
+}, {
+    "nome": "Paula C\u00e2ndido",
+    "secapital": false
+}, {
+    "nome": "Paulistas",
+    "secapital": false
+}, {
+    "nome": "Pav\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Pe\u00e7anha",
+    "secapital": false
+}, {
+    "nome": "Pedra Azul",
+    "secapital": false
+}, {
+    "nome": "Pedra Bonita",
+    "secapital": false
+}, {
+    "nome": "Pedra do Anta",
+    "secapital": false
+}, {
+    "nome": "Pedra do Indai\u00e1",
+    "secapital": false
+}, {
+    "nome": "Pedra Dourada",
+    "secapital": false
+}, {
+    "nome": "Pedralva",
+    "secapital": false
+}, {
+    "nome": "Pedras de Maria da Cruz",
+    "secapital": false
+}, {
+    "nome": "Pedrin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Pedro Leopoldo",
+    "secapital": false
+}, {
+    "nome": "Pedro Teixeira",
+    "secapital": false
+}, {
+    "nome": "Pequeri",
+    "secapital": false
+}, {
+    "nome": "Pequi",
+    "secapital": false
+}, {
+    "nome": "Perdig\u00e3o",
+    "secapital": false
+}, {
+    "nome": "Perdizes",
+    "secapital": false
+}, {
+    "nome": "Perd\u00f5es",
+    "secapital": false
+}, {
+    "nome": "Periquito",
+    "secapital": false
+}, {
+    "nome": "Pescador",
+    "secapital": false
+}, {
+    "nome": "Piau",
+    "secapital": false
+}, {
+    "nome": "Piedade de Caratinga",
+    "secapital": false
+}, {
+    "nome": "Piedade de Ponte Nova",
+    "secapital": false
+}, {
+    "nome": "Piedade do Rio Grande",
+    "secapital": false
+}, {
+    "nome": "Piedade dos Gerais",
+    "secapital": false
+}, {
+    "nome": "Pimenta",
+    "secapital": false
+}, {
+    "nome": "Pingo-d'\u00c1gua",
+    "secapital": false
+}, {
+    "nome": "Pint\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Piracema",
+    "secapital": false
+}, {
+    "nome": "Pirajuba",
+    "secapital": false
+}, {
+    "nome": "Piranga",
+    "secapital": false
+}, {
+    "nome": "Pirangu\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Piranguinho",
+    "secapital": false
+}, {
+    "nome": "Pirapetinga",
+    "secapital": false
+}, {
+    "nome": "Pirapora",
+    "secapital": false
+}, {
+    "nome": "Pira\u00faba",
+    "secapital": false
+}, {
+    "nome": "Pitangui",
+    "secapital": false
+}, {
+    "nome": "Piumhi",
+    "secapital": false
+}, {
+    "nome": "Planura",
+    "secapital": false
+}, {
+    "nome": "Po\u00e7o Fundo",
+    "secapital": false
+}, {
+    "nome": "Po\u00e7os de Caldas",
+    "secapital": false
+}, {
+    "nome": "Pocrane",
+    "secapital": false
+}, {
+    "nome": "Pomp\u00e9u",
+    "secapital": false
+}, {
+    "nome": "Ponte Nova",
+    "secapital": false
+}, {
+    "nome": "Ponto Chique",
+    "secapital": false
+}, {
+    "nome": "Ponto dos Volantes",
+    "secapital": false
+}, {
+    "nome": "Porteirinha",
+    "secapital": false
+}, {
+    "nome": "Porto Firme",
+    "secapital": false
+}, {
+    "nome": "Pot\u00e9",
+    "secapital": false
+}, {
+    "nome": "Pouso Alegre",
+    "secapital": false
+}, {
+    "nome": "Pouso Alto",
+    "secapital": false
+}, {
+    "nome": "Prados",
+    "secapital": false
+}, {
+    "nome": "Prata",
+    "secapital": false
+}, {
+    "nome": "Prat\u00e1polis",
+    "secapital": false
+}, {
+    "nome": "Pratinha",
+    "secapital": false
+}, {
+    "nome": "Presidente Bernardes",
+    "secapital": false
+}, {
+    "nome": "Presidente Juscelino",
+    "secapital": false
+}, {
+    "nome": "Presidente Kubitschek",
+    "secapital": false
+}, {
+    "nome": "Presidente Oleg\u00e1rio",
+    "secapital": false
+}, {
+    "nome": "Prudente de Morais",
+    "secapital": false
+}, {
+    "nome": "Quartel Geral",
+    "secapital": false
+}, {
+    "nome": "Queluzito",
+    "secapital": false
+}, {
+    "nome": "Raposos",
+    "secapital": false
+}, {
+    "nome": "Raul Soares",
+    "secapital": false
+}, {
+    "nome": "Recreio",
+    "secapital": false
+}, {
+    "nome": "Reduto",
+    "secapital": false
+}, {
+    "nome": "Resende Costa",
+    "secapital": false
+}, {
+    "nome": "Resplendor",
+    "secapital": false
+}, {
+    "nome": "Ressaquinha",
+    "secapital": false
+}, {
+    "nome": "Riachinho",
+    "secapital": false
+}, {
+    "nome": "Riacho dos Machados",
+    "secapital": false
+}, {
+    "nome": "Ribeir\u00e3o das Neves",
+    "secapital": false
+}, {
+    "nome": "Ribeir\u00e3o Vermelho",
+    "secapital": false
+}, {
+    "nome": "Rio Acima",
+    "secapital": false
+}, {
+    "nome": "Rio Casca",
+    "secapital": false
+}, {
+    "nome": "Rio do Prado",
+    "secapital": false
+}, {
+    "nome": "Rio Doce",
+    "secapital": false
+}, {
+    "nome": "Rio Espera",
+    "secapital": false
+}, {
+    "nome": "Rio Manso",
+    "secapital": false
+}, {
+    "nome": "Rio Novo",
+    "secapital": false
+}, {
+    "nome": "Rio Parana\u00edba",
+    "secapital": false
+}, {
+    "nome": "Rio Pardo de Minas",
+    "secapital": false
+}, {
+    "nome": "Rio Piracicaba",
+    "secapital": false
+}, {
+    "nome": "Rio Pomba",
+    "secapital": false
+}, {
+    "nome": "Rio Preto",
+    "secapital": false
+}, {
+    "nome": "Rio Vermelho",
+    "secapital": false
+}, {
+    "nome": "Rit\u00e1polis",
+    "secapital": false
+}, {
+    "nome": "Rochedo de Minas",
+    "secapital": false
+}, {
+    "nome": "Rodeiro",
+    "secapital": false
+}, {
+    "nome": "Romaria",
+    "secapital": false
+}, {
+    "nome": "Ros\u00e1rio da Limeira",
+    "secapital": false
+}, {
+    "nome": "Rubelita",
+    "secapital": false
+}, {
+    "nome": "Rubim",
+    "secapital": false
+}, {
+    "nome": "Sabar\u00e1",
+    "secapital": false
+}, {
+    "nome": "Sabin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Sacramento",
+    "secapital": false
+}, {
+    "nome": "Salinas",
+    "secapital": false
+}, {
+    "nome": "Salto da Divisa",
+    "secapital": false
+}, {
+    "nome": "Santa B\u00e1rbara",
+    "secapital": false
+}, {
+    "nome": "Santa B\u00e1rbara do Leste",
+    "secapital": false
+}, {
+    "nome": "Santa B\u00e1rbara do Monte Verde",
+    "secapital": false
+}, {
+    "nome": "Santa B\u00e1rbara do Tug\u00fario",
+    "secapital": false
+}, {
+    "nome": "Santa Cruz de Minas",
+    "secapital": false
+}, {
+    "nome": "Santa Cruz de Salinas",
+    "secapital": false
+}, {
+    "nome": "Santa Cruz do Escalvado",
+    "secapital": false
+}, {
+    "nome": "Santa Efig\u00eania de Minas",
+    "secapital": false
+}, {
+    "nome": "Santa F\u00e9 de Minas",
+    "secapital": false
+}, {
+    "nome": "Santa Helena de Minas",
+    "secapital": false
+}, {
+    "nome": "Santa Juliana",
+    "secapital": false
+}, {
+    "nome": "Santa Luzia",
+    "secapital": false
+}, {
+    "nome": "Santa Margarida",
+    "secapital": false
+}, {
+    "nome": "Santa Maria de Itabira",
+    "secapital": false
+}, {
+    "nome": "Santa Maria do Salto",
+    "secapital": false
+}, {
+    "nome": "Santa Maria do Sua\u00e7u\u00ed",
+    "secapital": false
+}, {
+    "nome": "Santa Rita de Caldas",
+    "secapital": false
+}, {
+    "nome": "Santa Rita de Ibitipoca",
+    "secapital": false
+}, {
+    "nome": "Santa Rita de Jacutinga",
+    "secapital": false
+}, {
+    "nome": "Santa Rita de Minas",
+    "secapital": false
+}, {
+    "nome": "Santa Rita do Itueto",
+    "secapital": false
+}, {
+    "nome": "Santa Rita do Sapuca\u00ed",
+    "secapital": false
+}, {
+    "nome": "Santa Rosa da Serra",
+    "secapital": false
+}, {
+    "nome": "Santa Vit\u00f3ria",
+    "secapital": false
+}, {
+    "nome": "Santana da Vargem",
+    "secapital": false
+}, {
+    "nome": "Santana de Cataguases",
+    "secapital": false
+}, {
+    "nome": "Santana de Pirapama",
+    "secapital": false
+}, {
+    "nome": "Santana do Deserto",
+    "secapital": false
+}, {
+    "nome": "Santana do Garamb\u00e9u",
+    "secapital": false
+}, {
+    "nome": "Santana do Jacar\u00e9",
+    "secapital": false
+}, {
+    "nome": "Santana do Manhua\u00e7u",
+    "secapital": false
+}, {
+    "nome": "Santana do Para\u00edso",
+    "secapital": false
+}, {
+    "nome": "Santana do Riacho",
+    "secapital": false
+}, {
+    "nome": "Santana dos Montes",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Amparo",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Aventureiro",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Grama",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Itamb\u00e9",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Jacinto",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Monte",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Retiro",
+    "secapital": false
+}, {
+    "nome": "Santo Ant\u00f4nio do Rio Abaixo",
+    "secapital": false
+}, {
+    "nome": "Santo Hip\u00f3lito",
+    "secapital": false
+}, {
+    "nome": "Santos Dumont",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Bento Abade",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Br\u00e1s do Sua\u00e7u\u00ed",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Domingos das Dores",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Domingos do Prata",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o F\u00e9lix de Minas",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Francisco",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Francisco de Paula",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Francisco de Sales",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Francisco do Gl\u00f3ria",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Geraldo",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Geraldo da Piedade",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Geraldo do Baixio",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Abaet\u00e9",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Par\u00e1",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Rio Abaixo",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Rio Preto",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gon\u00e7alo do Sapuca\u00ed",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Gotardo",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o Batista do Gl\u00f3ria",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o da Lagoa",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o da Mata",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o da Ponte",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o das Miss\u00f5es",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o del Rei",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Manhua\u00e7u",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Manteninha",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Oriente",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Pacu\u00ed",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o do Para\u00edso",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o Evangelista",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jo\u00e3o Nepomuceno",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Joaquim de Bicas",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 da Barra",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 da Lapa",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 da Safira",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 da Varginha",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 do Alegre",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 do Divino",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 do Goiabal",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 do Jacuri",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Jos\u00e9 do Mantimento",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Louren\u00e7o",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Miguel do Anta",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Pedro da Uni\u00e3o",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Pedro do Sua\u00e7u\u00ed",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Pedro dos Ferros",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Rom\u00e3o",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Roque de Minas",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o da Bela Vista",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o da Vargem Alegre",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Anta",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Maranh\u00e3o",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Oeste",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Para\u00edso",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Rio Preto",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Sebasti\u00e3o do Rio Verde",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Thom\u00e9 das Letras",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Tiago",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Tom\u00e1s de Aquino",
+    "secapital": false
+}, {
+    "nome": "S\u00e3o Vicente de Minas",
+    "secapital": false
+}, {
+    "nome": "Sapuca\u00ed-Mirim",
+    "secapital": false
+}, {
+    "nome": "Sardo\u00e1",
+    "secapital": false
+}, {
+    "nome": "Sarzedo",
+    "secapital": false
+}, {
+    "nome": "Sem-Peixe",
+    "secapital": false
+}, {
+    "nome": "Senador Amaral",
+    "secapital": false
+}, {
+    "nome": "Senador Cortes",
+    "secapital": false
+}, {
+    "nome": "Senador Firmino",
+    "secapital": false
+}, {
+    "nome": "Senador Jos\u00e9 Bento",
+    "secapital": false
+}, {
+    "nome": "Senador Modestino Gon\u00e7alves",
+    "secapital": false
+}, {
+    "nome": "Senhora de Oliveira",
+    "secapital": false
+}, {
+    "nome": "Senhora do Porto",
+    "secapital": false
+}, {
+    "nome": "Senhora dos Rem\u00e9dios",
+    "secapital": false
+}, {
+    "nome": "Sericita",
+    "secapital": false
+}, {
+    "nome": "Seritinga",
+    "secapital": false
+}, {
+    "nome": "Serra Azul de Minas",
+    "secapital": false
+}, {
+    "nome": "Serra da Saudade",
+    "secapital": false
+}, {
+    "nome": "Serra do Salitre",
+    "secapital": false
+}, {
+    "nome": "Serra dos Aimor\u00e9s",
+    "secapital": false
+}, {
+    "nome": "Serrania",
+    "secapital": false
+}, {
+    "nome": "Serran\u00f3polis de Minas",
+    "secapital": false
+}, {
+    "nome": "Serranos",
+    "secapital": false
+}, {
+    "nome": "Serro",
+    "secapital": false
+}, {
+    "nome": "Sete Lagoas",
+    "secapital": false
+}, {
+    "nome": "Setubinha",
+    "secapital": false
+}, {
+    "nome": "Silveir\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Silvian\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Sim\u00e3o Pereira",
+    "secapital": false
+}, {
+    "nome": "Simon\u00e9sia",
+    "secapital": false
+}, {
+    "nome": "Sobr\u00e1lia",
+    "secapital": false
+}, {
+    "nome": "Soledade de Minas",
+    "secapital": false
+}, {
+    "nome": "Tabuleiro",
+    "secapital": false
+}, {
+    "nome": "Taiobeiras",
+    "secapital": false
+}, {
+    "nome": "Taparuba",
+    "secapital": false
+}, {
+    "nome": "Tapira",
+    "secapital": false
+}, {
+    "nome": "Tapira\u00ed",
+    "secapital": false
+}, {
+    "nome": "Taquara\u00e7u de Minas",
+    "secapital": false
+}, {
+    "nome": "Tarumirim",
+    "secapital": false
+}, {
+    "nome": "Teixeiras",
+    "secapital": false
+}, {
+    "nome": "Te\u00f3filo Otoni",
+    "secapital": false
+}, {
+    "nome": "Tim\u00f3teo",
+    "secapital": false
+}, {
+    "nome": "Tiradentes",
+    "secapital": false
+}, {
+    "nome": "Tiros",
+    "secapital": false
+}, {
+    "nome": "Tocantins",
+    "secapital": false
+}, {
+    "nome": "Tocos do Moji",
+    "secapital": false
+}, {
+    "nome": "Toledo",
+    "secapital": false
+}, {
+    "nome": "Tombos",
+    "secapital": false
+}, {
+    "nome": "Tr\u00eas Cora\u00e7\u00f5es",
+    "secapital": false
+}, {
+    "nome": "Tr\u00eas Marias",
+    "secapital": false
+}, {
+    "nome": "Tr\u00eas Pontas",
+    "secapital": false
+}, {
+    "nome": "Tumiritinga",
+    "secapital": false
+}, {
+    "nome": "Tupaciguara",
+    "secapital": false
+}, {
+    "nome": "Turmalina",
+    "secapital": false
+}, {
+    "nome": "Turvol\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Ub\u00e1",
+    "secapital": false
+}, {
+    "nome": "Uba\u00ed",
+    "secapital": false
+}, {
+    "nome": "Ubaporanga",
+    "secapital": false
+}, {
+    "nome": "Uberaba",
+    "secapital": false
+}, {
+    "nome": "Uberl\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Umburatiba",
+    "secapital": false
+}, {
+    "nome": "Una\u00ed",
+    "secapital": false
+}, {
+    "nome": "Uni\u00e3o de Minas",
+    "secapital": false
+}, {
+    "nome": "Uruana de Minas",
+    "secapital": false
+}, {
+    "nome": "Uruc\u00e2nia",
+    "secapital": false
+}, {
+    "nome": "Urucuia",
+    "secapital": false
+}, {
+    "nome": "Vargem Alegre",
+    "secapital": false
+}, {
+    "nome": "Vargem Bonita",
+    "secapital": false
+}, {
+    "nome": "Vargem Grande do Rio Pardo",
+    "secapital": false
+}, {
+    "nome": "Varginha",
+    "secapital": false
+}, {
+    "nome": "Varj\u00e3o de Minas",
+    "secapital": false
+}, {
+    "nome": "V\u00e1rzea da Palma",
+    "secapital": false
+}, {
+    "nome": "Varzel\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Vazante",
+    "secapital": false
+}, {
+    "nome": "Verdel\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Veredinha",
+    "secapital": false
+}, {
+    "nome": "Ver\u00edssimo",
+    "secapital": false
+}, {
+    "nome": "Vermelho Novo",
+    "secapital": false
+}, {
+    "nome": "Vespasiano",
+    "secapital": false
+}, {
+    "nome": "Vi\u00e7osa",
+    "secapital": false
+}, {
+    "nome": "Vieiras",
+    "secapital": false
+}, {
+    "nome": "Virgem da Lapa",
+    "secapital": false
+}, {
+    "nome": "Virg\u00ednia",
+    "secapital": false
+}, {
+    "nome": "Virgin\u00f3polis",
+    "secapital": false
+}, {
+    "nome": "Virgol\u00e2ndia",
+    "secapital": false
+}, {
+    "nome": "Visconde do Rio Branco",
+    "secapital": false
+}, {
+    "nome": "Volta Grande",
+    "secapital": false
+}, {
+    "nome": "Wenceslau Braz",
+    "secapital": false
+}]
